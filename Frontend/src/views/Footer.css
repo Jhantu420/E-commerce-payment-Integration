@@ -1,0 +1,23 @@
+.text-reset{
+    text-decoration: none;
+}
+#foot{
+    background-color:papayawhip;
+    padding: 0%;
+    width:100%;
+    margin-top: 20px;
+    
+}
+#span{
+   padding: 20px;
+}
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+#footer{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
